@@ -1,0 +1,15 @@
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\bin\Debug\net6.0\CsharpTutorial.exe
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\bin\Debug\net6.0\CsharpTutorial.deps.json
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\bin\Debug\net6.0\CsharpTutorial.runtimeconfig.json
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\bin\Debug\net6.0\CsharpTutorial.dll
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\bin\Debug\net6.0\CsharpTutorial.pdb
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\obj\Debug\net6.0\CsharpTutorial.csproj.AssemblyReference.cache
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\obj\Debug\net6.0\CsharpTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\obj\Debug\net6.0\CsharpTutorial.AssemblyInfoInputs.cache
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\obj\Debug\net6.0\CsharpTutorial.AssemblyInfo.cs
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\obj\Debug\net6.0\CsharpTutorial.csproj.CoreCompileInputs.cache
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\obj\Debug\net6.0\CsharpTutorial.dll
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\obj\Debug\net6.0\refint\CsharpTutorial.dll
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\obj\Debug\net6.0\CsharpTutorial.pdb
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\obj\Debug\net6.0\CsharpTutorial.genruntimeconfig.cache
+C:\Users\MlueTech\OneDrive\Desktop\CsharpTutorial\obj\Debug\net6.0\ref\CsharpTutorial.dll
